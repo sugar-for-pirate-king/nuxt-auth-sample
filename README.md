@@ -1,10 +1,10 @@
-# auth-sample
+# nuxt-auth-sample
 
-> My first-class Nuxt.js project
+> Just plays with nuxt middleware and store concept.
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 $ yarn install
 
@@ -18,5 +18,3 @@ $ yarn start
 # generate static project
 $ yarn generate
 ```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
